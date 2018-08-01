@@ -1,3 +1,12 @@
 from django.db import models
+from django.conf import settings
 
-# Create your models here.
+# here are some models used to create a 
+
+class WeeklyView(models.Model):
+    """
+    A weekly view instance
+    """
+
+    
+
